@@ -2,7 +2,7 @@
 
 namespace CsvWriter;
 
-use TextWriter;
+use CsvWriter\TextWriter;
 
 class CsvWriter extends TextWriter
 {
