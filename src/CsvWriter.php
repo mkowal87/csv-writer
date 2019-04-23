@@ -1,8 +1,8 @@
 <?php
 
-namespace Libs\CsvWriter;
+namespace CsvWriter;
 
-use Libs\TextWriter;
+use TextWriter;
 
 class CsvWriter extends TextWriter
 {
