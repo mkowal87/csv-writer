@@ -1,0 +1,11 @@
+{
+    "name": "csv-writer",
+    "description": "CsvWriter based on buffered TextWriter.",
+    "repositories": [],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Libs\\CsvWriter\\": "src/"
+        }
+    }
+}
